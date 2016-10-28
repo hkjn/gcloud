@@ -1,4 +1,5 @@
 FROM hkjn/alpine
+# TODO: Could just set up kubectl instead: https://coreos.com/kubernetes/docs/latest/configure-kubectl.html
 
 ENV GCLOUD_VERSION 131.0.0-linux-x86_64
 
